@@ -18,6 +18,6 @@ ___
 
 1. [📝 DNS ](./2019/articles/DNS_CDN_and_LoadBalancing.md)
 
-![gif](../2019/assets/writing.gif)
+![gif](./2019/assets/writing.gif)
 
 <!-- Written by Vivek Verma (vivk274@gmail.com) .....copied from Daniel Deutsch-->
