@@ -11,13 +11,12 @@ ___
 ___
 
 ### 📰 Latest articles
-
+[📝 DNS ](./2019/articles/DNS_CDN_and_LoadBalancing.md)
 ---
 
 #### 2019
 
-1. [📝 Why I Start Writing](./2019/articles/WhyIStartWriting.md)
-1. [📝 My Writing Framework](./2019/articles/Motivation.md)
+1. [📝 DNS ](./2019/articles/DNS_CDN_and_LoadBalancing.md)
 
 ![gif](https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif)
 
