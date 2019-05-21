@@ -14,10 +14,10 @@ ___
 [📝 DNS ](./2019/articles/DNS_CDN_and_LoadBalancing.md)
 ---
 
-#### 2019
+# 2019
 
 1. [📝 DNS ](./2019/articles/DNS_CDN_and_LoadBalancing.md)
 
-![gif](https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif)
+![gif](../2019/assets/writing.gif)
 
 <!-- Written by Vivek Verma (vivk274@gmail.com) .....copied from Daniel Deutsch-->
