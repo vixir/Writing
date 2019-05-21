@@ -15,8 +15,10 @@ We all know that Domain name consists of individual labels separated by dots (ww
 Root server sends the request to Domain Server which uses Top level Domain Namespace(com, edu, in, org) to delegate request to Authoritative Server which resolves the ip address and sends it back to the browser.
 Cloudflare and Amazon's Route 53 provides managed DNS services that allows users to manage their DNS traffic.  
 
-![Alt](assets/DNS.jpg)
-<img src="assets/DNS.png" width="480"/>
+
+<img src="../assets/DNS.png" width="480"/>
+
+Recursive resolution of IP address
 #### Recursive and Iterative resolution.
   * In recursive resolution once a request is sent to the root server, root server in turns sends the request till it reaches authoritative server and response is reverted back to the browser.
   * In Iterative resolution browser receives a response from root server and then browser in turn uses the response and sends a request to authoritative server which returns a response to the browser. 
