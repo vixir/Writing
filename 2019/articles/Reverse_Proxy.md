@@ -14,7 +14,7 @@ Benefits:
 #### Reverse Proxy
 Reverse proxy is a web server that centralizes internal servers and provides single interface to the client. Request will be routed to the available server. 
 
-<img src="../assets/reverse_proxy.png" width="480"/>
+<img src="../assets/reverse_proxy.png" width="720"/>
 
 Benefits:
 - Load Balancing is a special case of reverse proxy. It has to have two or more servers to balance the load. 
