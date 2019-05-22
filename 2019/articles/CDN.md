@@ -1,7 +1,7 @@
 ## CDN
 CDN is a highly distributed network of servers that delivers content of the website based on user's location.
 It acts as an intermediary between the content network, known as origin and the user.
-Ususally the site's data is stored in host's web server, the one where site is installed. If the traffic is more, then origin will be overloaded and websites/content users will experience latency while using the website.
+Usually the site's data is stored in host's web server, the one where site is installed. If the traffic is more, then origin will be overloaded and websites/content users will experience latency while using the website.
 CDNs also communicates with the main host server to update any content that has not been previously cached.
 
 Initially, CDNs were just used for static website content(JS, CSS, HTML) and you had to push content to then as you have created it.

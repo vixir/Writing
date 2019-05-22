@@ -18,7 +18,7 @@ ___
 
 1. [📝 DNS ](./2019/articles/DNS.md)
 2. [📝 CDN ](./2019/articles/CDN.md)
-3. [📝 CDN ] reverse proxy, load balancing
+3. [📝 Reverse Proxy](./2019/articles/Reverse_Proxy.md)
 
 ![gif](./2019/assets/writing.gif)
 
