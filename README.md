@@ -16,7 +16,8 @@ ___
 
 # 2019
 
-1. [📝 DNS ](./2019/articles/DNS_CDN_and_LoadBalancing.md)
+1. [📝 DNS ](./2019/articles/DNS.md)
+2. [📝 CDN ](./2019/articles/CDN.md)
 
 ![gif](./2019/assets/writing.gif)
 
