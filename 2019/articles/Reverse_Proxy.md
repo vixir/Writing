@@ -12,12 +12,12 @@ Benefits:
 - GeoFencing -> Clients can access certain servers. People from a particular area are not allowed to access server.
 
 #### Reverse Proxy
-Reverse proxy is a web server that centralizes internal servers and provides single interface to the client. Request will be routed to the available server. 
+Reverse proxy is a web server that centralizes internal servers and provides single interface to the client. Request will be routed to the available server of the many servers available. 
 
 <img src="../assets/reverse_proxy.png" width="720"/>
 
 Benefits:
-- Load Balancing is a special case of reverse proxy. It has to have two or more servers to balance the load. 
+- Load Balancing is a special case of reverse proxy. It has to have two or more servers to balance the load.
 - Caching
 - Isolating Internal Traffic
 - Logging

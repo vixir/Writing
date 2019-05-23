@@ -7,7 +7,7 @@ CDNs also communicates with the main host server to update any content that has 
 Initially, CDNs were just used for static website content(JS, CSS, HTML) and you had to push content to then as you have created it.
 Many CDNs now cache website's "last alive" state, so that if orgin goes down, the CDN cache can still serve website's content.
 Variety of contents can be served by CDN : videos, voice, e-commerce transactions, software downloads such as apps, OS updates, binaries.
-Additional benifits include DDoS mitigation, uptime monitoring, security by using knowledge crowdsourced from it's clients. CDNs servers are quick to respond to a vulnerability, as they yhave most to lose (their customers).
+Additional benifits include DDoS mitigation, uptime monitoring, security by using knowledge crowdsourced from it's clients. CDNs servers are quick to respond to a vulnerability, as they have most to lose (their customers).
 
 When to use : 
  * Website is traffic heavy site.
@@ -17,5 +17,4 @@ When to use :
 
 Reference:
   * https://www.akamai.com/us/en/cdn/what-is-a-cdn.jsp#what-is-a-cdn
-  * https://www.sitepoint.com/what-is-a-cdn-and-how-does-it-work/
   * https://www.sitepoint.com/what-is-a-cdn-and-how-does-it-work/
