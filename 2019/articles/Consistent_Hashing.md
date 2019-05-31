@@ -15,7 +15,7 @@ Let's assume we have a 6-bit id space. Total 64 ids.
 How to map node Ids to key Ids. Which nodes are responsible for storing which key. Let's assume keyIds are stored in the next greater nodeId (anti-clockwise).
 In our example keyId corresponding to id 60 will be assigned to node with id 1.
 
-<img src="../assets/consistent_hashingA.png" width="480"/>
+<img src="../assets/consistent_hashingA.svg" width="480"/>
 
 - If node B is removed, all the ids between 1 and 32 will be assigned to C, which is almost half of the ids. This results in increase in load for one node.
 
