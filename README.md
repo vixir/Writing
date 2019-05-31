@@ -19,6 +19,7 @@ ___
 1. [📝 DNS ](./2019/articles/DNS.md)
 2. [📝 CDN ](./2019/articles/CDN.md)
 3. [📝 Reverse Proxy](./2019/articles/Reverse_Proxy.md)
+4. [📝 Consistent Hashing](./2019/articles/Consistent_Hashing.md)
 
 ![gif](./2019/assets/writing.gif)
 
