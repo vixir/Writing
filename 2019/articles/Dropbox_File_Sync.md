@@ -32,7 +32,7 @@ a) File appears in block server.
 b) Uploading client calls metaserver to check blocklist, if blocks are missing locally, we will get "need blocks"(nb) response
 c) Uploading Client calls block server for the file contents.
 d) After all the blocks are uploaded in system, metaserver replies with ok response and the lastest journalId. Now client knows that updates area available.
-e) 
+e) Now downloading client checks local system if these updates are already there. If not, client will download directly from block server.
 <img src="https://dropboxtechblog.files.wordpress.com/2014/07/streamingsyncprotocol1.png?w=505&zoom=2" width="480"/>
 2) Stream sync
 
