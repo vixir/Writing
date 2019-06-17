@@ -11,7 +11,7 @@ ___
 ___
 
 ### 📰 Latest articles
-[📝 DNS ](./2019/articles/DNS_CDN_and_LoadBalancing.md)
+[📝 Load Balancing](./2019/articles/Load_Balancer.md)
 ---
 
 # 2019
