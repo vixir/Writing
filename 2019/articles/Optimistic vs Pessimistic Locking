@@ -1,0 +1,23 @@
+Optimistic locking :-
+Optimistic Locking assumes nothing is going to change in database record when you are reading it. A record in database is available for all
+user sessions or transactions. While using optimistic locking, we will not be locking any database records, instead everytime a transaction 
+reads data, it will also read version number or timestamp.
+When data is written to a record, the update should based on atomic operation on version i.e, make sure data is not changed between 
+checking the version and writing the record to the disk while updating the version in one hit. If the entry is modified by another 
+client between read and update, an error is raised and the application has to re-read the value and retry the operation.
+If other transactions wants to update the same record, they will first read and then update the version number or timestamp.
+This is useful when you application has a lot of reads and few updates. 
+
+Pessimistic Locking :-
+Pessimistic locking assumes that something will change in a database record when you are reading it and so it locks it.
+Transaction locked.
+Better integrity.
+Applications responisibility to handle deadlock
+Isolation Layers
+If there are few conflicts, then we should go for optimistic locking.
+Pessimistic locks   to hold the resource. Distributed systems will not really like pessimistic locking.
+How transaction in our database access database.
+
+Always have timeouts for lock.
+
+Also go through Paxos and Raft consensus.
