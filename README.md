@@ -21,7 +21,6 @@ ___
 3. [📝 Reverse Proxy](./2019/articles/Reverse_Proxy.md)
 4. [📝 Consistent Hashing](./2019/articles/Consistent_Hashing.md)
 5. [📝 Load Balancing](./2019/articles/Load_Balancer.md)
-6. [📝 Strategy for System Design](./2019/articles/System_Design.md)
 
 <!-- ![gif](./2019/assets/writing.gif) -->
 
